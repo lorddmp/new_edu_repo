@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include "haha.h"
 
 int main()
 {
-    printf("LAlalaal\n");
+    int a = MAX;
+    printf("LAlalaal, %d\n", a);
 
     return 0;
 }
